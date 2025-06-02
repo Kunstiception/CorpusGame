@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0d4e8c035bb9845839c9f02c28cbd485
+timeCreated: 1436714516
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/Popups/Log In.prefab
+  uploadId: 671658

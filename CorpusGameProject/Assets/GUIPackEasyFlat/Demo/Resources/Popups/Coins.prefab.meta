@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1d6d6534e7d64ddfb7bedd56fcffbe4
+timeCreated: 1431433587
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/Popups/Coins.prefab
+  uploadId: 671658

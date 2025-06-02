@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7a44a054429384843b7167d3c9f59404
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/UI Elements/Buttons/Rectangles/Button
+    - Gray.prefab
+  uploadId: 671658

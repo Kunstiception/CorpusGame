@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 63a720016aa184b138ee2acb1aa2eb17
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Sources/Avatar Creator/SVG/Elements/Clothing
+    - Dress.svg
+  uploadId: 671658

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 13927f8438b03470fb1c42b24f310f50
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/UI Elements/Buttons/Rectangles/Button
+    - Teal.prefab
+  uploadId: 671658

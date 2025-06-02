@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a031eb2f00cd74c1db817bee95af5af8
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Editor/Easy Flat Color Palette.colors
+  uploadId: 671658

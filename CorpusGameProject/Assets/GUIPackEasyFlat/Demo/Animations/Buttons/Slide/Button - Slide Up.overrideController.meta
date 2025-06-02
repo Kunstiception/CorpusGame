@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: ed47dfc0ac1a249a7b79b36be6d1eead
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Animations/Buttons/Slide/Button - Slide
+    Up.overrideController
+  uploadId: 671658

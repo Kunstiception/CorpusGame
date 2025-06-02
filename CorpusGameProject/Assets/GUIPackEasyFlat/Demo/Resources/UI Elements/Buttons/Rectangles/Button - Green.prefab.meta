@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 16803673ad5904122a420536645f62e7
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/UI Elements/Buttons/Rectangles/Button
+    - Green.prefab
+  uploadId: 671658

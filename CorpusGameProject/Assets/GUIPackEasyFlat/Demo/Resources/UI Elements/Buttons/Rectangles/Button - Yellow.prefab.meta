@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6beb3de8452c846e2b498fa7f0caaa79
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/UI Elements/Buttons/Rectangles/Button
+    - Yellow.prefab
+  uploadId: 671658

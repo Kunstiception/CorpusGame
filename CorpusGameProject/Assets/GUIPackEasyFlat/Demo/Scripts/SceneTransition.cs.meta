@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8536e4c16316b4561b7e050bce7c197d
+timeCreated: 1438107695
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Scripts/SceneTransition.cs
+  uploadId: 671658

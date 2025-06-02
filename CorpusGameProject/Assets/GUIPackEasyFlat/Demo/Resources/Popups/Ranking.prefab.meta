@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 59e5d8e215eab4ea49b151280af50795
+timeCreated: 1431550571
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/Popups/Ranking.prefab
+  uploadId: 671658

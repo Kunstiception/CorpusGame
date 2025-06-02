@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: adbfbcdcd842945b7b9b7eacedfbf089
+timeCreated: 1431426737
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Animations/Popup/Popup.controller
+  uploadId: 671658

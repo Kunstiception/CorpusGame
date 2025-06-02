@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7748b749c97ea43348e4883a3988c89f
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Animations/Home Scene/Balloon/Balloon.controller
+  uploadId: 671658

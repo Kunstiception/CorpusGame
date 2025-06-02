@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e59b955a4cbd44c2aadc2628f62ddcf4
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Resources/UI Elements/Checkbox/Checkbox
+    - Circle.prefab
+  uploadId: 671658

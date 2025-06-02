@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 6b5a41addf9464b0bb3e9713335ce6d9
+timeCreated: 1433850914
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Scripts/StartGamePopup.cs
+  uploadId: 671658

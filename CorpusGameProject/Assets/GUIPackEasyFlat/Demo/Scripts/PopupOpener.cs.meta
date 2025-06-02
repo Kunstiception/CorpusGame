@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2526e3f0c1fcd4e47a210f84cfe94ebd
+timeCreated: 1438111589
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39327
+  packageName: Easy Flat GUI Pack
+  packageVersion: 3.3
+  assetPath: Assets/GUIPackEasyFlat/Demo/Scripts/PopupOpener.cs
+  uploadId: 671658
